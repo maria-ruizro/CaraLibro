@@ -1,0 +1,56 @@
+
+-- ACCESO
+	-- Login
+
+	-- Registro
+		-- Comprobar que el usuario esté disponible y que sólo sea números y letras.
+		-- Comprobar que la contraseña sea válida.
+		-- CAMPOS
+			-- Valor autoincrementable de código de usuario.
+			-- Nombre.
+			-- Apellidos.
+			-- Correo.
+			-- Contraseña.
+			-- Comprobar contraseña.
+			-- Foto.
+			-- Sexo.
+			-- Edad.
+
+	-- Recuperación de datos en caso de olvido
+		-- Recuperar contraseña a través del correo.
+		-- Recuperar usuario a través del correo y contraseña.
+
+-- CONFIGURACIÓN DE USUARIO
+	-- PERFIL PERSONAL
+		-- Cambios de datos personales e imagen personal.
+
+	-- PRIVACIDAD
+		-- Cambio de correo, contraseña.
+
+-- REDES
+	-- Agregar amigos.
+		-- Visualizar usuarios que empiecen por ese nombre introcido.
+	-- Eliminar amigos.
+	-- Visualizar amigos.
+
+-- MUROS
+	-- MURO GENERAL
+		-- Visualizar publicaciones de tus amigos y las tuyas por orden cronológico.
+
+	-- MURO PROPIO
+		-- Visualizar tu muro.
+
+-- PUBLICACIÓN
+	-- Visualizar el contenido de la publicación.
+	-- EDICIÓN
+		-- Editar.
+		-- Borrar.
+	-- Comentarios.
+	-- Me gusta.
+	-- No me gusta.
+
+-- OPCIONAL
+	-- Chat de amigos.
+	-- Compartir.
+	-- AÑADIR FOTOS
+		-- Añadir fotos individuales o colectivas con su respectivo álbum.

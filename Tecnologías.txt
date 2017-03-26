@@ -1,0 +1,8 @@
+
+-- GitHub
+-- JavaScript
+-- JQuery
+-- PHP
+-- HTML5
+-- LESS
+-- RESPONSIVE
